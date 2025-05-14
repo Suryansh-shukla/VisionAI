@@ -1,0 +1,13 @@
+Object-Detection-App/
+├── index.html
+├── live.html
+├── custom.html
+├── script.js
+├── custom.java
+├── live.java
+├── models/
+│   ├── yolov4.cfg
+│   ├── yolov4.weights
+│   ├── coco.names
+└── images/
+    └── detected.png
